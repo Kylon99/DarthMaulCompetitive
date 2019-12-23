@@ -1,0 +1,20 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
+  "author": "Kylon99",
+  "description": "Darth Maul Competitive Mode for Beat Saber",
+  "features": [],
+  "gameVersion": "1.6.0",
+  "icon": "DarthMaulCompetitive.DarthMaulCompetitive.Resources.DarthMaulCompetitiveColored.png",
+  "id": "DarthMaulCompetitive",
+  "name": "DarthMaulCompetitive",
+  "version": "0.1.0",
+  "dependsOn": {
+    "BSIPA": "^3.13.4",
+    "BeatSaberMarkupLanguage": "^1.1.1",
+    "BS Utils": "^1.4.0"
+  },
+  "links": {
+    "project-home": "https://github.com/Kylon99/DarthMaulCompetitive",
+    "project-source": "https://github.com/Kylon99/DarthMaulCompetitive/tree/master/DarthMaulCompetitive"
+  }
+}
